@@ -1,4 +1,4 @@
-import './styles.css'
+import './styles.css';
 import logo from '../../assets/img/logo.svg';
 
 export default function Header() {
@@ -13,5 +13,5 @@ export default function Header() {
         </p>
       </div>
     </header>
-  )
+  );
 }
